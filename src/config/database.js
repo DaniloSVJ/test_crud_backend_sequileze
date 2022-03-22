@@ -1,5 +1,4 @@
-module.exports =
-production: {
+module.exports ={production: {
     dialect: "postgres",
     protocol: 'postgres',
     host:"ec2-52-73-64-42.compute-1.amazonaws.com",
@@ -18,4 +17,4 @@ production: {
             rejectUnauthorized: false // <<<<<<< YOU NEED THIS
           }
       }
-}
+}}
