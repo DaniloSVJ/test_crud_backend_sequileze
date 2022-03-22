@@ -34,7 +34,7 @@ module.exports = {
 
           },
           {
-            tableName: "funcionario"
+            tableName: "funcionarios"
           }
       );
     
