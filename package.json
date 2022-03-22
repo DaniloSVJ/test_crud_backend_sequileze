@@ -4,8 +4,8 @@
   "description": "teste",
   "main": "index.js",
   "scripts": {
-    "start": "node src/server.js",
-    "build": "sequelize db:migrate --env production && <other stuff to do before run the app>"
+    "start": "node src/server.js"
+    
   },
   "author": "",
   "license": "ISC",
