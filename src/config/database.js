@@ -1,11 +1,11 @@
 module.exports = {
     dialect: "postgres",
     protocol: 'postgres',
-    host:"ec2-3-222-204-187.compute-1.amazonaws.com",
-    username: "jxxtgigvlqglyt",
-    password: "2dbcfbafdbcbeda35ec56e4638b4861a177a6e9fc4d653dc023ab0b9434b55f7",
+    host:"ec2-52-73-64-42.compute-1.amazonaws.com",
+    username: "gbdjrqapwbhdns",
+    password: "4e290c0b8e92bbfde9e3f3a01ad6ff848b189f23ac162e7676a9676f058a894d",
     port:5432,
-    database: "d8j6ub4c00ierc",
+    database: "de1h82qe5m1708",
     ssl: true, 
     define: {
         timestamp:true,
