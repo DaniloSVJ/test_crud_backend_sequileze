@@ -33,8 +33,9 @@ module.exports = {
 
 
           },
+          
           {
-            tableName: "funcionarios"
+            freezeTableName: true
           }
       );
     
